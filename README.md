@@ -1,7 +1,4 @@
-
-<div align=center>
-  
-  ## 매일 성장하는 개발자 구남규 입니다
+## 매일 성장하는 개발자 구남규 입니다
 <!--
 <h3> 👨🏻•💻 About Me </h3>
 
@@ -13,7 +10,6 @@
 
 - ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
 -->
-
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; NodeJS | GraphQL | Apollo
@@ -29,9 +25,6 @@
 - 🔧 &nbsp; React Native
 
 <hr>
-
-  </div>
-
 
 <div align=center>
   
