@@ -36,4 +36,4 @@
 
 <hr>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nain93&langs_count=10&theme=tokyonight&layout=compact" alt="nain93 :: Top Langs" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nain93&langs_count=10&theme=tokyonight&layout=compact" alt="nain93 :: Top Langs" /></p>
