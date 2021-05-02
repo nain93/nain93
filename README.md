@@ -24,7 +24,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; React Native
+- 🔧 &nbsp; React Native | Expo | TypeScript
 
 <hr>
 
