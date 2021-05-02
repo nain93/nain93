@@ -22,21 +22,19 @@
 
 <h3>🛠 Tech Stack</h3>
 
+- 💻 &nbsp; NodeJS | GraphQL | Apollo
 
+- 🌐 &nbsp; ReactJS | TypeScript | Redux | HTML | CSS | Bootstrap
 
-- 💻 &nbsp; Python | Java | C++ | C | MySQL
+- 🛢 &nbsp; PostgreSQL | MySQL | Prisma2 | Sequelize 
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
+- 🔧 &nbsp; Git | Slack | Notion
 
-<!--
+<h3>🛠 To Learn</h3>
 
-- 🛢 &nbsp; MySQL | MongoDB
+- 🔧 &nbsp; React Native
 
-- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
-
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
-
--->
+<hr>
 
 
 
