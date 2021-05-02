@@ -1,6 +1,7 @@
 
-
-## 매일 성장하는 개발자 구남규 입니다
+<div align=center>
+  
+  ## 매일 성장하는 개발자 구남규 입니다
 <!--
 <h3> 👨🏻•💻 About Me </h3>
 
@@ -17,7 +18,7 @@
 
 - 💻 &nbsp; NodeJS | GraphQL | Apollo
 
-- 🌐 &nbsp; ReactJS | TypeScript | Redux | HTML | CSS | Bootstrap
+- 🌐 &nbsp; ReactJS | TypeScript | Redux | Scss | Styled Components | HTML | CSS | Bootstrap
 
 - 🛢 &nbsp; PostgreSQL | MySQL | Prisma2 | Sequelize 
 
@@ -28,6 +29,9 @@
 - 🔧 &nbsp; React Native
 
 <hr>
+
+  </div>
+
 
 <div align=center>
   
