@@ -16,7 +16,7 @@
 
 - 💻 &nbsp; NodeJS | GraphQL | Apollo
 
-- 🌐 &nbsp; ReactJS | TypeScript | Redux | Scss | Styled Components | HTML | CSS | Bootstrap
+- 🌐 &nbsp; ReactJS | TypeScript | Redux | Scss | Styled Components | HTML | CSS | Styled-components | Scss | Bootstrap
 
 - 🛢 &nbsp; PostgreSQL | MySQL | Prisma2 | Sequelize 
 
