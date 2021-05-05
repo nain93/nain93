@@ -20,7 +20,7 @@
 
 - 🛢 &nbsp; PostgreSQL | MySQL | Prisma2 | Sequelize 
 
-- 🔧 &nbsp; Git | Slack | Notion
+- 🔧 &nbsp; Git | Slack | Notion | Discord
 
 <h3>🛠 To Learn</h3>
 
