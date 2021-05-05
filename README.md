@@ -14,7 +14,7 @@
 -->
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; NodeJS | GraphQL | Apollo
+- 💻 &nbsp; NodeJS | GraphQL | Apollo | Express
 
 - 🌐 &nbsp; ReactJS | TypeScript | Redux | Scss | Styled Components | HTML | CSS | Styled-components | Scss | Bootstrap
 
