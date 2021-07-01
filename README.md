@@ -20,7 +20,7 @@
 
 - 💻 &nbsp; NodeJS | GraphQL | Apollo | Express
 
-- 🌐 &nbsp; ReactJS | TypeScript | Redux | Scss | Styled Components | HTML | CSS | Styled-components | Scss | Bootstrap
+- 🌐 &nbsp; ReactJS | React Native | Redux | Scss | Styled Components | HTML | CSS
 
 - 🛢 &nbsp; PostgreSQL | MySQL | Prisma2 | Sequelize 
 
@@ -28,7 +28,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; React Native | Expo | TypeScript
+- 🔧 &nbsp; TypeScript
 
 <hr>
 
