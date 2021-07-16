@@ -2,19 +2,19 @@
 
 # 매일 성장하는 개발자 구남규 입니다
 
-<h3> 👨🏻•💻 About Me </h3>
+<h3> 👨🏻 💻 About Me </h3>
 
-<!--
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
+- 🤔 &nbsp; 새로운 기술에 관심이 많으며 배우면서 적용 해보는것을 좋아합니다
 
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
+- 🎓 &nbsp; 최근 React Native, GraphQL에 관심을 가지고 스택 활용한 앱 개발중에 있습니다
 
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+- 🌱 &nbsp; 노마드코더 강의를 많이 듣고 도움을 받습니다
 
--->
+- ✍️ &nbsp; 사이드 프로젝트를 진행하고 협업 하는것에 관심이 많습니다
+
+
 
 <h3>🛠 Tech Stack</h3>
 
