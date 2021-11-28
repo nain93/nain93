@@ -22,7 +22,7 @@
 
 - 🌐 Back-End Node.js, GraphQL
  
-- 🔧 &nbsp; Git | Slack | Notion | Discord
+- 🔧 Git | Slack | Notion | Discord
 
 <hr>
 
