@@ -18,9 +18,9 @@
 
 - 💻 Javascript | Typescript
 
-- 🌐 Front-End ReactJS | React Native | Apollo | Redux | Styled Components 
+- 🌐 Front-End  ReactJS | React Native | Apollo | Redux | Styled Components 
 
-- 🌐 Back-End Node.js, GraphQL
+- 🌐 Back-End  Node.js, GraphQL
  
 - 🔧 Git | Slack | Notion | Discord
 
