@@ -20,7 +20,7 @@
 
 - 🌐 Front-End &nbsp; ReactJS | React Native | Apollo | Redux | Styled Components 
 
-- 🌐 Back-End &nbsp; Node.js, GraphQL
+- 🌐 Back-End &nbsp; Node.js | GraphQL
  
 - 🔧 Git | Slack | Notion | Discord
 
