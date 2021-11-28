@@ -16,7 +16,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Javascript | Typescript
+- 💻 Javascript | Typescript
 
 - 🌐 Front-End ReactJS | React Native | Apollo | Redux | Styled Components 
 
