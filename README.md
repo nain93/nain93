@@ -14,13 +14,14 @@
 - ✍️ &nbsp; 사이드 프로젝트를 진행하고 협업 하는것에 관심이 많습니다
  -->
 
-
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; NodeJS | GraphQL | Apollo
+- 💻 &nbsp; Javascript | Typescript
 
-- 🌐 &nbsp; ReactJS | React Native | Redux | Styled Components 
+- 🌐 Front-End ReactJS | React Native | Apollo | Redux | Styled Components 
 
+- 🌐 Back-End Node.js, GraphQL
+ 
 - 🔧 &nbsp; Git | Slack | Notion | Discord
 
 <hr>
