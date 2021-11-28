@@ -1,7 +1,7 @@
 ### Hi there 👋  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnain93&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-<h3> 👨🏻 💻 About Me </h3>
+<!-- <h3> 👨🏻 💻 About Me </h3>
 
 
 
@@ -12,22 +12,16 @@
 - 🌱 &nbsp; 밤에 코딩하는 것을 좋아합니다
 
 - ✍️ &nbsp; 사이드 프로젝트를 진행하고 협업 하는것에 관심이 많습니다
-
+ -->
 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; NodeJS | GraphQL | Apollo | Express
+- 💻 &nbsp; NodeJS | GraphQL | Apollo
 
-- 🌐 &nbsp; ReactJS | React Native | Redux | Scss | Styled Components | HTML | CSS
-
-- 🛢 &nbsp; PostgreSQL | MySQL | Prisma2 | Sequelize 
+- 🌐 &nbsp; ReactJS | React Native | Redux | Styled Components 
 
 - 🔧 &nbsp; Git | Slack | Notion | Discord
-
-<h3>🛠 To Learn</h3>
-
-- 🔧 &nbsp; TypeScript
 
 <hr>
 
