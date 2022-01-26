@@ -18,7 +18,7 @@
 
 - 💻 Javascript | Typescript
 
-- 🌐 ReactJS | React Native | Apollo | Redux | Styled Components 
+- 🌐 ReactJS | NextJS | React Native | Apollo | Recoil | Redux | Styled Components 
 
 - 🌐 Node.js | GraphQL
  
