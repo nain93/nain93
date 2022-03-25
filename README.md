@@ -18,11 +18,13 @@
 
 - 💻 Javascript | Typescript
 
-- 🌐 ReactJS | NextJS | React Native | Apollo | Recoil | Redux | Styled Components 
+- 🌐 ReactJS | React Native | Apollo | Recoil | Redux | Styled Components 
 
 - 🌐 Node.js | GraphQL
  
 - 🔧 Git | Slack | Notion | Discord
+
+- 💡 Learning... NextJS | Flutter
 
 <hr>
 
