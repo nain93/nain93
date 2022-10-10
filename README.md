@@ -24,7 +24,7 @@
  
 - 🔧 Git | Slack | Notion | Discord
 
-- 💡 Learning... NextJS, CI/CD
+- 💡 Learning... NextJS, Flutter, CI/CD
 
 <hr>
 
