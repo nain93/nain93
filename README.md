@@ -18,7 +18,7 @@
 
 - 💻 Javascript | Typescript
 
-- 🌐 React Native | ReactJS | React Query | Recoil
+- 🌐 React Native | ReactJS | React Query | Recoil | Apollo
  
 - 🔧 Git | Slack | Notion | Discord
 
