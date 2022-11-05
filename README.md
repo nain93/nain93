@@ -18,11 +18,9 @@
 
 - 💻 Javascript | Typescript
 
-- 🌐 React Native | ReactJS | React Query | Recoil | Apollo
+- 🌐 Flutter | React Native | ReactJS | React Query | Recoil | Apollo
  
 - 🔧 Git | Slack | Notion | Discord
-
-- 💡 Learning... Flutter, NextJS, CI/CD
 
 <hr>
 
