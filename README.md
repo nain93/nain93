@@ -25,6 +25,6 @@
 <hr>
 
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nain93&langs_count=10&theme=tokyonight&layout=compact" alt="nain93 :: Top Langs" /></p> 
+<!-- <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nain93&langs_count=10&theme=tokyonight&layout=compact" alt="nain93 :: Top Langs" /></p>  -->
 
-<a href="https://dooboo.io"><img src="https://server.dooboo.io/github-stats-advanced/nain93" width="600" /></a>
+<a href="https://dooboo.io"><img src="https://server.dooboo.io/github-stats-advanced/nain93?date=01" width="600" /></a>
