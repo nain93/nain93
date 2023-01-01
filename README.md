@@ -17,11 +17,11 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 Javascript | Typescript
+- 💻 Javascript | Typescript | Dart
 
 - 🌐 Flutter | React Native | ReactJS | React Query | Recoil | Apollo
  
-- 🔧 Git | Slack | Notion | Discord
+- 🔧 Firebase | Git | Slack | Notion | Discord
 
 <hr>
 
